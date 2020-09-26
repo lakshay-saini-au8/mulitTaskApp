@@ -1,0 +1,22 @@
+//
+export const auth = {
+  LOGIN: "LOGIN",
+  LOGOUT: "LOGOUT",
+  REGISTER: "REGISTER",
+};
+
+export const todo = {
+  ADD_TODO: "ADD_TODO",
+  EDIT_TODO: "EDIT_TODO",
+  DELETE_TODO: "DELETE_TODO",
+  UPDATE_TODO: "UPDATE_TODO",
+};
+
+export const randomData = {
+  FETCH_DATA: "FETCH_DATA",
+  SET_DATA: "SET_DATA",
+  SORT_BY_NAME: "SORT_BY_NAME",
+  SORT_BY_EMAIL: "SORT_BY_EMAIL",
+  SORT_BY_USERNAME: "SORT_BY_USERNAME",
+  SEARCH_BY_NAME: "SEARCH_BY_NAME",
+};
